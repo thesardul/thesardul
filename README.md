@@ -9,3 +9,8 @@
 - 🌱 I’m currently learning more about Back-end and System Designs.
 - 💬 Ask me and discuss about System, UI or any tech-related stuff.
 - 📫 How to reach me: [LinkedIn - @thesardul](https://www.linkedin.com/in/thesardul/)
+
+## Github Stats
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thesardul&show_icons=true&count_private=true" align="center" /></div>
+<br />
