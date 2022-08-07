@@ -10,7 +10,11 @@
 - 💬 Ask me and discuss about System, UI or tech-related stuff.
 - 📫 How to reach me: [LinkedIn - @thesardul](https://www.linkedin.com/in/thesardul/)
 
-## Github Stats
+## Github Stats  & LeetCode Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thesardul&show_icons=true&theme=synthwave&count_private=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thesardul&show_icons=true&theme=synthwave&count_private=true" />
+
+<img src="https://leetcode-stats.vercel.app/api?username=thesardul&theme=Light" />
+
+</div>
 <br />
