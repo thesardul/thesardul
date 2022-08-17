@@ -14,9 +14,11 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thesardul&show_icons=true&theme=synthwave&count_private=true" />
 
-<img src="https://leetcode-stats.vercel.app/api?username=thesardul&theme=Light" />
-
+  <img src="https://leetcode-stats.vercel.app/api?username=thesardul&theme=Light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesardul&show_icons=true&locale=en" alt="thesardul" />
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesardul&alt=thesardul"/> -->
+  
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesardul&show_icons=true&locale=en&layout=compact" alt="thesardul" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesardul&alt=thesardul"/></p>
+
+
 <br />
