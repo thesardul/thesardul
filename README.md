@@ -1,3 +1,6 @@
+<h1 align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75931&random=false&width=435&lines=%E2%9C%A8Hey%2C+I'm+Sardul.+You+are+welcome!+%E2%9C%A8" alt="Typing SVG" />
+</h1>
 ## Hola, I'm [Sardul Yadav](https://thesardul.com/) 👋
 
 <br/>
